@@ -1,0 +1,2 @@
+# WpfMvvm.AttachedProperties
+Присоединяемые свойства
